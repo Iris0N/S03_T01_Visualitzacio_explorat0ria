@@ -1,0 +1,67 @@
+ 3. Sprint 3. Visualització de les dades
+
+Durada : 10 dies 
+
+Objectiu general: 
+
+    Entendre i aplicar les diferents tècniques de visualització amb Python  
+
+Objectius específics: 
+
+    Conèixer les diferents llibreries Matplotlib i Seaborn
+
+Si algun recurs de towardsdatascience o medium demana registre, proveu d’obrir-lo en finestra d’incògnit.
+
+1- Llibreries de visualització
+
+En aquest llibre veurem la llibreria Matplotlib i Seaborn que s'utilitzen per visualitzar dades. A data science, moltes vegades abans de començar a treballar amb les dades, es fan algunes visualitzaciones per conèixer-les una mica millor. Et recomano que miris també aquesta pàgina https://www.data-to-viz.com on t'aconsella diferents tipus de gràfiques que es poden fer segons les dades que tinguis. Em sembla iteressant perquè apareixen gràfiques originals.
+
+Cal tenir en compte que aquestes llibreries són recomanacions que et fem, però que si conèixes d'altres que t'agraden més pots sentir-te lliure en utilitzar-les sobretot en aquelles tasques més obertes on promovem la teva creativitat.
+
+
+1. Llibreria Matplotlib
+https://www.w3schools.com/python/matplotlib_intro.asp
+
+Introducció Matplotlib
+
+    llibreria de visualització amb Python
+    Secció completa
+
+Introducció a Matplotlib (complementària)
+https://matplotlib.org/stable/tutorials/introductory/pyplot.html
+
+Galeria Matplotlib
+https://matplotlib.org/stable/gallery/index.html
+
+Matplotlibcheatsheet
+
+    Full de trucs de la llibreria Matplotlib
+    Descarrega't els documents en la carpeta.
+    
+    1- Llibreries de visualització
+
+En aquest llibre veurem la llibreria Matplotlib i Seaborn que s'utilitzen per visualitzar dades. A data science, moltes vegades abans de començar a treballar amb les dades, es fan algunes visualitzaciones per conèixer-les una mica millor. Et recomano que miris també aquesta pàgina https://www.data-to-viz.com on t'aconsella diferents tipus de gràfiques que es poden fer segons les dades que tinguis. Em sembla iteressant perquè apareixen gràfiques originals.
+
+Cal tenir en compte que aquestes llibreries són recomanacions que et fem, però que si conèixes d'altres que t'agraden més pots sentir-te lliure en utilitzar-les sobretot en aquelles tasques més obertes on promovem la teva creativitat.
+
+
+2. Llibreria de Seaborn i altres recursos complementaris
+
+Introducció Seaborn
+
+    Una altra llibreria de visualització per Python
+
+Galeria Seaborn
+
+Seaborn Cheatsheet
+
+Recursos complementaris interessants: Seguidament, tindreu a la vostre disposició 3 enllaços molt útils per rebre informació complementària.
+
+    https://datavizcatalogue.com/
+
+    https://www.data-to-viz.com/
+
+    http://www-personal.umich.edu/~mejn/election/2016/
+
+
+
